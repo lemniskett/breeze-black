@@ -1,0 +1,18 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "syahrial@lemniskett.moe",
+                "Name": "Lemniskett"
+            }
+        ],
+        "Category": "",
+        "Description": "Breeze Dark with Black Shell",
+        "EnabledByDefault": false,
+        "Id": "breeze-black",
+        "License": "LGPL",
+        "Name": "Breeze Black",
+        "Version": "6.5.0"
+    },
+    "X-Plasma-API": "5.0"
+}
